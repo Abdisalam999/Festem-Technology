@@ -1,0 +1,29 @@
+body{
+    background-image: url(tech.png);
+    color: #38BDF8;
+}
+h1{
+    text-decoration: solid;
+    text-align: center;
+    background-color: #0F172A;
+    color: #38BDF8;
+}
+#new{
+    text-align: center;
+    background-color: #0F172A;
+    color: #38BDF8;
+}
+main{
+    text-align: left;
+    background-color: #0F172A;
+    color: #38BDF8;
+}
+#old{
+    text-align: center;
+}
+.group{
+    background-color: #0F172A;
+}
+section{
+    background-color: #0F172A;
+}
